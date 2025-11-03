@@ -20,6 +20,7 @@ Bienvenido a mi repositorio personal de aprendizaje en programación. Aquí comp
 - CSS
 - JavaScript
 - Bash
+- SQL
 
 ---
 
